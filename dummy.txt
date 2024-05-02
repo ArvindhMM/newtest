@@ -1,1 +1,1 @@
-this is adummy file for learning pull request
+this is a dummy file for learning pull request
